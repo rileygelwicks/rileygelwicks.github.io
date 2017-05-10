@@ -1,7 +1,5 @@
-#Riley Gelwicks' Portfolio
+# Riley Gelwicks' Portfolio
 ![Riley Gelwicks](http://riley.gelwicks.me/img/headshot-resized.jpg)
-
-Riley Gelwicks // Full-Stack Web Developer 
 
 #### Personal Projects
 1. [Listboxer](https://listboxer.com)

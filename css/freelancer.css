@@ -48,7 +48,7 @@ hr.star-primary {
 
 hr.star-light:after,
 hr.star-primary:after {
-    content: "\f005";
+    /*content: "\f005";*/
     display: inline-block;
     position: relative;
     top: -.8em;
@@ -82,7 +82,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #18bc9c;
+    background: #6c6e71;
 }
 
 header .container {
@@ -172,7 +172,7 @@ header .intro-text .skills {
 }
 
 section {
-    padding: 100px 0;
+    padding: 10px 0;
 }
 
 section h2 {
@@ -182,7 +182,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #18bc9c;
+    background: #6c6e71;
 }
 
 section.success a,
